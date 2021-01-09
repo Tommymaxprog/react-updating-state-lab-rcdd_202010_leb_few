@@ -36,7 +36,10 @@ class YouTubeDebugger extends React.Component {
         }
       }
     });
+<<<<<<< HEAD
   };
+=======
+>>>>>>> 7f2b6c54ab92a8df2d3ba19dd1b83e44b35a526b
 render() {
     return (
       <div>
